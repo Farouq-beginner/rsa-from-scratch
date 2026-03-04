@@ -117,8 +117,7 @@ M^(e·d) ≡ M (mod n)
 rsa-from-scratch/
 │
 ├── rsa.py
-├── README.md
-└── examples/
+└── README.md
 ```
 
 ---
