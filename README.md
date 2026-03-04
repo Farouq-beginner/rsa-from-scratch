@@ -278,12 +278,3 @@ This project demonstrates that RSA can be fully reconstructed from number theory
 Understanding the mathematics behind RSA is essential before trusting real-world cryptographic frameworks.
 
 ---
-
-Jika Anda mau, saya bisa:
-
-* 🔥 Tambahkan versi dengan input string → otomatis dikonversi ke integer
-* 🔥 Tambahkan diagram alur RSA (Markdown + ASCII visual)
-* 🔥 Tambahkan mode digital signature
-* 🔥 Tambahkan versi dengan prime generator (Miller–Rabin) agar terlihat lebih advanced
-
-Tinggal pilih ingin versi “nilai A” atau “nilai A+ dengan keunggulan teknis tambahan”.
